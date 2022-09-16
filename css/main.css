@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap");
+.titulo {
+  color: #e51db6;
+}
+
+.subtitulo {
+  color: #ec8dff;
+}
+
+.texto {
+  color: #ec8dff;
+}
+
+article {
+  background-color: #560770;
+  border: solid #7a0f9e;
+}
+
+nav {
+  background-color: #560770;
+  color: #e51db6;
+}
+
+.titulo {
+  font-size: 2.25rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.subtitulo {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.texto {
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bg-violet {
+  font-size: 1.5rem;
+}

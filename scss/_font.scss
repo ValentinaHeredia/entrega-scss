@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+
+$font:'Montserrat', sans-serif;
+
+$titulo-size: 2.5rem;
+$subtitulo-size: 1.70rem;
+$texto-size:  1.25rem;
+
+.titulo{
+    font-size: $titulo-size;
+    font-family: $font;
+}
+
+.subtitulo{
+    font-size: $subtitulo-size;
+    font-family: $font;
+}
+
+.texto{
+    font-size: $texto-size;
+    font-family: $font;
+}
+
+.bg-violet{
+    font-size: $texto-size;
+}

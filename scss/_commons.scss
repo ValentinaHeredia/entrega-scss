@@ -1,0 +1,33 @@
+$titulo-color: #e51db6;
+$subtitulo-color: #ec8dff;
+$texto-color: #ec8dff;
+
+$caja-color: #560770;
+$borde-color: #7a0f9e;
+
+$navbar-color: #560770;
+
+
+
+.titulo{
+    color: $titulo-color;
+}
+
+.subtitulo{
+    color: $subtitulo-color;
+}
+
+.texto{
+    color: $texto-color;
+}
+
+article{
+    background-color: $caja-color;
+    border: solid $borde-color;
+}
+
+nav{
+    background-color: $navbar-color;
+    color: $titulo-color;
+}
+
