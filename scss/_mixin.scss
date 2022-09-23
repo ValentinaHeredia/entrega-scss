@@ -1,0 +1,11 @@
+@mixin texto($texto-color, $texto-size) {
+    font-family: $font;
+    color: $texto-color;
+    font-size: $texto-size;
+    background-color: $caja-color;
+    border: solid $borde-color;
+}
+
+article{
+    @include texto($texto-color, $texto-size)
+}
